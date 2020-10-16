@@ -31,7 +31,7 @@ choose **add to marked list**
 
 
 
-![export](C:\Users\Administrator\Desktop\export.PNG)
+![export](https://github.com/liushangjian/daily-learning/blob/main/export.PNG)
 **choose export as other file formats**
 
 **now you can get the data from web of science**

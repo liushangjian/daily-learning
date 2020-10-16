@@ -12,7 +12,7 @@ there will show many papers abort this topic(if you chose to searchs topic)
 **choose the core collection of web of science. for it has more informations that can be analysis than other collections. (other collections sometimes get wrong in citespace for informations)**
 
 
-- ![marked list](C:\Users\Administrator\Desktop\marked list.PNG)
+- ![marked list](https://github.com/liushangjian/daily-learning/blob/main/marked%20list.PNG)
 choose **add to marked list**
 - ![mark](https://github.com/liushangjian/daily-learning/blob/main/mark.PNG)
 **choose marked list**

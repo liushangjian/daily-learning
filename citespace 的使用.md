@@ -14,7 +14,7 @@ there will show many papers abort this topic(if you chose to searchs topic)
 
 - ![marked list](C:\Users\Administrator\Desktop\marked list.PNG)
 choose **add to marked list**
-- ![mark](C:\Users\Administrator\Desktop\mark.PNG)
+- ![mark](https://github.com/liushangjian/daily-learning/blob/main/mark.PNG)
 **choose marked list**
 
 

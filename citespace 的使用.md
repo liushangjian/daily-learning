@@ -7,7 +7,7 @@
 - basic search
 there will show many papers abort this topic(if you chose to searchs topic)
 
-![refine](C:\Users\Administrator\Desktop\refine.PNG)
+![refine](https://github.com/liushangjian/daily-learning/blob/main/refine.PNG)
 - choose refine as core selection
 **choose the core collection of web of science. for it has more informations that can be analysis than other collections. (other collections sometimes get wrong in citespace for informations)**
 

@@ -2,7 +2,7 @@
 ### 软件的安装，需要配置Java环境，可以参考百度经验
 ### 数据的获取，以web of science 为例
 - 登陆web of science
-- ![web of science](https://github.com/liushangjian/daily-learning/blob/main/citespace%20%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+- ![web of science](https://github.com/liushangjian/daily-learning/blob/main/web%20of%20science.PNG)
 - choose select as topic
 - basic search
 there will show many papers abort this topic(if you chose to searchs topic)

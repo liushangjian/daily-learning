@@ -24,7 +24,7 @@ choose **add to marked list**
 
 
 
-- ![selectall](C:\Users\Administrator\Desktop\selectall.PNG)
+- ![selectall](https://github.com/liushangjian/daily-learning/blob/main/selectall.PNG)
 **choose select all**
 
 
